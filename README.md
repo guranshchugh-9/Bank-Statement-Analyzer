@@ -26,53 +26,7 @@ Lend X is an **AI-driven fintech platform** designed to help **first-time loan b
 ---
 
 ## 📂 Project Structure  
+📦 Lend-X ┣ 📂 data/ # Sample bank statements & processed CSVs ┣ 📂 scripts/ # Parsing, analysis, and prediction scripts ┣ 📂 models/ # Trained ML models for financial assessment ┣ 📂 web/ # Web interface & API integrations (if applicable) ┣ 📜 README.md # Project Documentation ┣ 📜 requirements.txt # Required dependencies
 
-```yaml
-📦 Lend-X
- ┣ 📂 data/               # Sample bank statements & processed CSVs
- ┣ 📂 scripts/            # Parsing, analysis, and prediction scripts
- ┣ 📂 models/             # Trained ML models for financial assessment
- ┣ 📂 web/                # Web interface & API integrations (if applicable)
- ┣ 📜 README.md           # Project Documentation
- ┣ 📜 requirements.txt     # Required dependencies
-🚀 Installation & Setup
-1️⃣ Clone the Repository
-bash
-Copy
-Edit
-git clone https://github.com/your-username/lend-x.git  
-cd lend-x
-2️⃣ Create a Virtual Environment (Optional but Recommended)
-bash
-Copy
-Edit
-python -m venv venv  
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-3️⃣ Install Dependencies
-bash
-Copy
-Edit
-pip install -r requirements.txt
-4️⃣ Run the Bank Statement Analyzer
-bash
-Copy
-Edit
-python main.py
-📊 How It Works
-1️⃣ User Uploads a Bank Statement 📂
-2️⃣ The System Extracts Transactions & Categorizes Them 📊
-3️⃣ AI-Based EMI and Loan Recommendations Are Provided 🤖
-4️⃣ Comparative Analysis of Banks & Interest Rates 🔍
-5️⃣ Real-Time Social Media Sentiment Analysis 📈
 
-🎯 Use Cases
-✅ First-time loan borrowers optimizing EMI plans
-✅ Financial institutions assessing customer creditworthiness
-✅ Loan comparison platforms integrating real-time sentiment analysis
-
-🤝 Contributing
-Want to contribute? Fork the repo, create a new branch, and submit a PR! 🎯
-
-📜 License
-This project is licensed under the MIT License.
-
+---
