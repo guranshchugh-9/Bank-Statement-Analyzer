@@ -8,7 +8,6 @@ Lend X is an **AI-driven fintech platform** designed to help **first-time loan b
 
 ✔ **Automated Bank Statement Parsing** – Extracts structured data from PDF statements.  
 ✔ **Expense Categorization & Financial Insights** – Identifies spending patterns & financial health.  
-✔ **AI-Based EMI Optimization** – Suggests best **loan repayment plans** based on income & expenses.  
 ✔ **Comparative Bank Analysis** – Evaluates lending policies & interest rates of multiple banks.  
 ✔ **Real-Time Social Media Scraping** – Analyzes complaints from **Twitter** to assess bank reliability.  
 ✔ **Data Visualization** – Generates interactive graphs for income, expenses, and credit score trends.  
