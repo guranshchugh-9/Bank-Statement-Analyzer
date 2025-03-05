@@ -24,9 +24,3 @@ Lend X is an **AI-driven fintech platform** designed to help **first-time loan b
 - **Visualization:** Matplotlib, Seaborn  
 
 ---
-
-## 📂 Project Structure  
-📦 Lend-X ┣ 📂 data/ # Sample bank statements & processed CSVs ┣ 📂 scripts/ # Parsing, analysis, and prediction scripts ┣ 📂 models/ # Trained ML models for financial assessment ┣ 📂 web/ # Web interface & API integrations (if applicable) ┣ 📜 README.md # Project Documentation ┣ 📜 requirements.txt # Required dependencies
-
-
----
